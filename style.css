@@ -266,3 +266,42 @@ body {
   background-color: dodgerblue;
 }
 
+
+
+
+
+/* Make all text bigger */
+body, p, li, td, div, span, b, strong {
+  font-size: 25px;
+  line-height: 1.6;
+}
+
+/* Make headings even larger */
+h1 {
+  font-size: 48px;
+}
+
+h2 {
+  font-size: 38px;
+}
+
+h3 {
+  font-size: 32px;
+}
+
+/* Table text */
+td, th {
+  font-size: 23px;
+  padding: 10px;
+}
+
+/* List items */
+li {
+  margin-bottom: 12px;
+}
+
+
+
+
+
+
